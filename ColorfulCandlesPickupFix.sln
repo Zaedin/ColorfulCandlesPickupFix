@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorfulCandlesPickupFix", "ColorfulCandlesPickupFix\ColorfulCandlesPickupFix.csproj", "{D9AD2D78-BF8D-40DD-8AD5-2752D1349023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "ZZCakeBuild\CakeBuild.csproj", "{57255F05-B8BE-4597-8627-C3CCA20C916D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9AD2D78-BF8D-40DD-8AD5-2752D1349023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AD2D78-BF8D-40DD-8AD5-2752D1349023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AD2D78-BF8D-40DD-8AD5-2752D1349023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AD2D78-BF8D-40DD-8AD5-2752D1349023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57255F05-B8BE-4597-8627-C3CCA20C916D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57255F05-B8BE-4597-8627-C3CCA20C916D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57255F05-B8BE-4597-8627-C3CCA20C916D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57255F05-B8BE-4597-8627-C3CCA20C916D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
